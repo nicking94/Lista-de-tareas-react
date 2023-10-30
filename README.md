@@ -8,7 +8,7 @@ Integrantes:
 -Nicolas Vallejo
 
 Vista de escritorio:
-![Desktop](../lista-tareas/src/imagenes/desktop.png)
+![Desktop](./src/imagenes/desktop.png)
 
 Vista mobile:
-![Mobile](../lista-tareas/src/imagenes/mobile.png)
+![Mobile](./src/imagenes/mobile.png)
