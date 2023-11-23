@@ -7,3 +7,6 @@ Vista de escritorio:
 
 Vista mobile:
 ![Mobile](./src/imagenes/mobile.png)
+
+Deployment in the following link:
+https://lista-tareas-nk.netlify.app/
